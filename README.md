@@ -23,17 +23,8 @@ Le plateau du jeu de départ est constitué de 16 dominos allant de 21 à 36. Ch
 - les 4 derniers dominos ont une valeur de 4 points.
 
 Représentation du plateau de départ:
+![Screenshot 2022-01-18 at 09 50 40](https://user-images.githubusercontent.com/50799531/149902833-9bd4423f-fa8a-4bca-8a89-4fc601bb3fd8.png)
 
-┌──┐┌──┐┌──┐┌──┐┌──┐┌──┐┌──┐┌──┐
-│21││22││23││24││25││26││27││28│
-├──┤├──┤├──┤├──┤├──┤├──┤├──┤├──┤
-│ 1││ 1││ 1││ 1││ 2││ 2││ 2││ 2│
-└──┘└──┘└──┘└──┘└──┘└──┘└──┘└──┘
-┌──┐┌──┐┌──┐┌──┐┌──┐┌──┐┌──┐┌──┐
-│29││30││31││32││33││34││35││36│
-├──┤├──┤├──┤├──┤├──┤├──┤├──┤├──┤
-│ 3││ 3││ 3││ 3││ 4││ 4││ 4││ 4│
-└──┘└──┘└──┘└──┘└──┘└──┘└──┘└──┘
 
 **b) Les dés**
 
